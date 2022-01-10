@@ -133,7 +133,7 @@ cc_prebuilt_library_shared {
 android_app_import {
 	name: "MotoDolbyV3",
 	owner: "lenovo",
-	apk: "proprietary/system/app/MotoDolbyV3/MotoDolbyV3.apk",
+	apk: "proprietary/app/MotoDolbyV3/MotoDolbyV3.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
